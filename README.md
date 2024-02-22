@@ -7,9 +7,8 @@ I'm Nabil Akbarazzima Fatih, an AI student at OTH Regensburg with strong passion
 - 🌍  I'm based in 🇩🇪 Regensburg, Germany
 - 🖥️  See my projects: 
     - [FibonacciKu](https://fibonacciku.com)
-    - [Nakafa](https://nakafa.com)
 - ✉️  You can contact me at [nabilfatih@fibonacciku.com](mailto:nabilfatih@fibonacciku.com)
-- 🚀  I'm currently working at [Wemakefuture AG](https://www.wemakefuture.com)
+- 🚀  I'm currently working at [Schneider Electric](https://www.se.com)
 
 ### Skills
 

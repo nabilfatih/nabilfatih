@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-I'm Nabil Akbarazzima Fatih, an AI student at OTH Regensburg with strong passion for machine learning, big data, and cutting-edge technologies, I aim to make a significant impact in the field of AI and computer science. I currently have a startup project, namely Nakafa and FibonacciKu which are involved in the world of AI.
+I'm Nabil Akbarazzima Fatih, an AI student at OTH Regensburg with strong passion for machine learning, big data, and cutting-edge technologies, I aim to make a significant impact in the field of AI and computer science. I currently have a startup project, namely FibonacciKu which are involved in the world of AI.
 
 - 🌍  I'm based in 🇩🇪 Regensburg, Germany
 - 🖥️  See my projects: 

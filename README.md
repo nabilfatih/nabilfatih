@@ -8,7 +8,7 @@ I'm Nabil Akbarazzima Fatih, an AI student at OTH Regensburg with strong passion
 - 🖥️  See my projects: 
     - [FibonacciKu](https://fibonacciku.com)
     - [Nakafa](https://nakafa.com)
-- ✉️  You can contact me at [nabilfatih@fibonacciku.com](mailto:nabilfatih@fibonacciku.com)
+- ✉️  You can contact me at [nabilakbarazzima@gmail.com](mailto:nabilakbarazzima@gmail.com)
 - 🚀  I'm currently working at [Strategy Bridge AI](https://www.strategybridge.ai/)
 
 ### Skills

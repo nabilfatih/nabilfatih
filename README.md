@@ -46,8 +46,6 @@ I'm Nabil Akbarazzima Fatih, an AI student at OTH Regensburg with strong passion
 
 <a href="http://www.github.com/nabilfatih"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilfatih&stroke=3382ed&background=000000&ring=a855f7&fire=a855f7&currStreakNum=3382ed&currStreakLabel=a855f7&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/nabilfatih"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nabilfatih&bg_color=000000&color=3382ed&line=ec4899&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/nabilfatih"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

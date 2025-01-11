@@ -7,7 +7,8 @@ I'm Nabil Akbarazzima Fatih, a Full Stack Developer with expertise in frontend d
 🌍 **Location:** 🇩🇪 Nürnberg, Germany  
 💻 **Projects:**  
 - [YouTube](https://www.youtube.com/@nakafaa)  
-- [Nakafa](https://nakafa.com)  
+- [Nakafa](https://nakafa.com)
+
 ✉️ **Contact:** [nabilakbarazzima@gmail.com](mailto:nabilakbarazzima@gmail.com)  
 💼 **Currently at:** [Strategy Bridge AI](https://www.strategybridge.ai/)
 

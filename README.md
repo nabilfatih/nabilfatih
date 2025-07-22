@@ -9,8 +9,7 @@ I'm Nabil Akbarazzima Fatih, a Full Stack Developer with expertise in frontend d
 - [YouTube](https://www.youtube.com/@nakafaa)  
 - [Nakafa](https://nakafa.com)
 
-✉️ **Contact:** [nabilakbarazzima@gmail.com](mailto:nabilakbarazzima@gmail.com)  
-💼 **Currently at:** [Strategy Bridge AI](https://www.strategybridge.ai/)
+✉️ **Contact:** [nabilakbarazzima@gmail.com](mailto:nabilakbarazzima@gmail.com)
 
 ---
 
